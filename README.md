@@ -27,7 +27,7 @@ textBox3.Text = 对象名.CodeToText(textBox4.Text);//电码转文字（参数�
 ```
 使用这个类库，只需要几行代码，即可快速转换文本和电码  
 该类库目前已收录6000多个汉字的电码和完整的摩尔斯电码。
-在将来不定期的更新中，该类库将支持更多类型的电码转换  
-附该类库的对象浏览器视图：  
+
+最后附该类库的对象浏览器视图：
 ![image](https://raw.githubusercontent.com/lycode404/CommercialCode/master/image/cncode.png)  
 ![image](https://raw.githubusercontent.com/lycode404/CommercialCode/master/image/morsecode.png)
