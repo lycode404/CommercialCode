@@ -30,4 +30,6 @@ textBox3.Text = 对象名.CodeToText(textBox4.Text);//电码转文字（参数�
 
 最后附该类库的对象浏览器视图：
 ![image](https://raw.githubusercontent.com/lycode404/CommercialCode/master/image/cncode.png)  
-![image](https://raw.githubusercontent.com/lycode404/CommercialCode/master/image/morsecode.png)
+![image](https://raw.githubusercontent.com/lycode404/CommercialCode/master/image/morsecode.png)  
+
+业余开发，请大佬轻喷......
